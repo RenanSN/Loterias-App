@@ -16,4 +16,4 @@ Trabalho escolar para mensão parcial do primeiro Semestre de 2020, da diciplina
 
 <br>
 
-Aula disponovel em: ![Link](https://www.youtube.com/watch?v=MZ1stLWZAFM&t=4302s)
+Aula disponovel em: https://www.youtube.com/watch?v=MZ1stLWZAFM&t=4302s
