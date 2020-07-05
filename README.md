@@ -12,7 +12,7 @@ Trabalho escolar para mensão parcial do primeiro Semestre de 2020, da diciplina
 
 |![loteria](https://github.com/RenanSN/Loterias-App/blob/master/img-README/img-loteria.PNG)|![megasena](https://github.com/RenanSN/Loterias-App/blob/master/img-README/img-megasena.PNG)|![quina](https://github.com/RenanSN/Loterias-App/blob/master/img-README/img-quina.PNG)|
 |----------------|-------------------------------|-------------------------------|
-|launchScreen -> Loretia |SegmentControl: opção1 -> Mega-Sena |SegmentControl: opção2 -> Quina |
+|launchScreen -> Loretia |SegmentControl: opção1 -> Mega |SegmentControl: opção2 -> Quina |
 
 <br>
 
